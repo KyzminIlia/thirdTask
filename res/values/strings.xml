@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Задание №3</string>
+    <string name="generate_button">Сгенерировать</string>
+    <string name="decode_button">Декодировать</string>
+    <string name="code_text">Переданная последовательность</string>
+    <string name="decode_text">Декодированная последовательность</string>
+
+</resources>
